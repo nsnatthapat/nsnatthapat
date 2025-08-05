@@ -15,7 +15,7 @@ I’ve helped organizations improve financial planning, uncover inefficiencies, 
 - **Business Intelligence & Strategy** – Translating business questions into data solutions
 - **Data Engineering (ETL)** – Building pipelines to support scalable analysis
 - **Program/Project Management** – Bridging technical teams and business goals
-- **Analytics Stack** – SQL • Python • Power BI • Pandas • Git • Jupyter • Airflow (learning) • dBT (learning)
+- **Analytics Stack** – SQL • Python • Power BI • Pandas • Git • Jupyter • Airflow • dBT 
 ---
 
 ## 🤝 Let’s Connect
