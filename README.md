@@ -16,8 +16,6 @@ I'm a data-driven problem solver with a background in Informatics and real-world
 - **Analytics Stack** – SQL • Python • Power BI • Pandas • Git • Jupyter • Airflow • dBT 
 ---
 
-Porfolio
-
 ## 🤝 Let’s Connect
 
 Always happy to chat about data, strategy, or your favorite hike!
