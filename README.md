@@ -1,8 +1,9 @@
 # 👋 Hi! I’m Natthapat Sakulborrirug (Nat)
 
-🎓 BS in Informatics:Data Science @ University of Washington
-🎓 MSBA @ University of Washington 
+🎓 MS in Analytics + BS in Informatics:Data Science from The University of Washington 
+
 💼 Analytics Engineer 
+
 🌏 Seattle-Based
 
 ---
