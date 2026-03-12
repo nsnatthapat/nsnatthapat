@@ -1,6 +1,9 @@
 # 👋 Hi! I’m Natthapat Sakulborrirug (Nat)
 
-🎓 MSBA @ University of Washington | 💼 BI Analytics Engineer | 🌏 Seattle-Based
+🎓 BS in Informatics:Data Science @ University of Washington
+🎓 MSBA @ University of Washington 
+💼 Analytics Engineer 
+🌏 Seattle-Based
 
 ---
 
@@ -10,9 +13,10 @@ I'm a data-driven problem solver with a background in Informatics and real-world
 
 ---
 ## 🧠 Interests & Strengths
-- **Business Intelligence & Strategy** – Translating business questions into data solutions
-- **Data Engineering (ETL)** – Building pipelines to support scalable analysis
-- **Program/Project Management** – Bridging technical teams and business goals
+- **Business Intelligence & Data Strategy** – Translating business questions into data solutions
+- **Causal Inference & Decision Science** - Moving beyond correlations via experiments & quasi-experiments to determine impact of intervention on outcomes
+- **Analytics Engineering (ETL)** – Building pipelines to support scalable analysis
+- **Program/Project Management** – Arming business teams with metric-driven mindset to make educated decisions.
 - **Analytics Stack** – SQL • Python • Power BI • Pandas • Git • Jupyter • Airflow • dBT 
 ---
 
