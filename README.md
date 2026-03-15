@@ -1,13 +1,17 @@
 # 👋 Hi! I’m Nat (Natthapat)
 
-🎓 MS in Analytics + BS in Informatics:Data Science from The University of Washington 
+🎓 MS in Business Analytics + BS in Informatics:Data Science -  University of Washington 
 
-💼 Analytics Engineer 
+💼 Analytics Engineer | Decision Systems | BI Developor
 
 🌏 Seattle-Based
 
-## 🤝 Let’s Connect
-📫 [LinkedIn](https://www.linkedin.com/in/natthapat-sakulborrirug/) | 🧠 [Medium](https://medium.com/@nsnatthapat) | nsnatthapat@gmail.com
+## 🤝 Connect
+📫 [LinkedIn](https://www.linkedin.com/in/natthapat-sakulborrirug/) 
+
+🧠 [Medium](https://medium.com/@nsnatthapat) 
+
+✉️ nsnatthapat@gmail.com
 
 ---
 
