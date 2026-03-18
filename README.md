@@ -60,4 +60,43 @@ Oracle OTBI • SQL • Oracle ERP Data Models
 Enabled business teams to access self-service reporting directly within the Oracle ecosystem, reducing turnaround time for operational insights.
 
 
+## ✏️ Portfolio 
+
+### Marketing Analytics (Causal Inference, Counterfactual Analysis, and ROI Calculations)
+
+Project Link | Tools | Project Description
+--- | --- | ---
+[Multi-Channel Online Ad Effectiveness Analysis for The Criterion Channel](https://github.com/nsnatthapat/criterion-channel-online-ad-campaign-effectiveness-roi) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects | Placeholder<br>Description
+[Online Ad Campaign Effectiveness Analysis for Rocket Fuel](https://github.com/nsnatthapat/rocket-fuel-ad-campaign-effectiveness-roi) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects, Propensity Scores & Inverse Probability Weighting, Double Machine Learning | Placeholder Description
+[Geo-Randomized Paid Search Effectiveness Analysis for eBay](https://github.com/nsnatthapat/e-bay-geo-randomized-paid-search-effectiveness-analysis) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects, difference-in-differences, synthetic controls method | Placeholder Description
+[Multi-Channel Campaign Attribution & ROI Analysis for Patagonia](https://github.com/nsnatthapat/patagonia-ad-analysis) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects| Placeholder Description
+[Discount Coupon Email Effectiveness, Targetting Method, and ROI Analysis for Artea](https://github.com/nsnatthapat/artea-coupon-effectiveness) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects| Placeholder Description
+
+
+
+
+
+
+-- scratch notes 
+academic/school/personal projects
+1. Portuguese Bank -- Prediction and Clustering
+2. EIA Energy
+3. Data4Good - LLM as a Judge
+4. TAG -- Causal Analysis 
+5. RAG -- Retrieval Augmented Generation (Course helper) 
+
+
+
+Skills I still need
+- dBT
+- Airflow
+- More ETL
+- More cloud (AWS, GCP, Azure)
+
+
+
+
+
+
+
 
