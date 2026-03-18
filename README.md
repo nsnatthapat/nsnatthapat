@@ -3,21 +3,16 @@
 
 🌏 Seattle-Based
 
-## 🤝 Connect
-📫 [LinkedIn](https://www.linkedin.com/in/natthapat-sakulborrirug/) 
-
-✉️ nsnatthapat@gmail.com
-
----
 ## 💡 About Me
 
 I'm a data-driven problem solver with a background in Informatics: Data Science and a Master's in Analytics. I thrive on translating complex business questions into actionable data solutions, leveraging my expertise in causal inference and decision science to drive impactful outcomes. With a passion for building scalable analytics pipelines and fostering a metric-driven mindset, I am dedicated to empowering teams to make informed decisions through data. Based in Seattle, I am always eager to connect with fellow data enthusiasts and professionals in the field.
 
----
+**🤝 Connect with me** : 📫 [LinkedIn](https://www.linkedin.com/in/natthapat-sakulborrirug/) | ✉️ nsnatthapat@gmail.com
 
-## 📊 Featured Professional Case Studies 
 
-### Enterprise Performance Management Implementation  
+# 📊 Featured Professional Case Studies 
+
+## Enterprise Performance Management Implementation  
 *Professional Case Study*
 
 Implemented an enterprise performance management (EPM) solution using Board to support financial planning and reporting across multiple departments.
@@ -39,7 +34,7 @@ Enabled centralized planning and reporting workflows, reducing reliance on manua
 
 ---
 
-### Oracle OTBI Reporting Framework  
+## Oracle OTBI Reporting Framework  
 *Professional Case Study*
 
 Developed operational reporting solutions using Oracle Transactional Business Intelligence (OTBI) to support business monitoring and decision-making.
@@ -60,42 +55,33 @@ Oracle OTBI • SQL • Oracle ERP Data Models
 Enabled business teams to access self-service reporting directly within the Oracle ecosystem, reducing turnaround time for operational insights.
 
 
-## ✏️ Portfolio 
+# ✏️ Portfolio 
 
-### Marketing Analytics (Causal Inference, Counterfactual Analysis, and ROI Calculations)
-
-Project Link | Tools | Project Description
---- | --- | ---
-[Multi-Channel Online Ad Effectiveness Analysis for The Criterion Channel](https://github.com/nsnatthapat/criterion-channel-online-ad-campaign-effectiveness-roi) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects | Placeholder<br>Description
-[Online Ad Campaign Effectiveness Analysis for Rocket Fuel](https://github.com/nsnatthapat/rocket-fuel-ad-campaign-effectiveness-roi) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects, Propensity Scores & Inverse Probability Weighting, Double Machine Learning | Placeholder Description
-[Geo-Randomized Paid Search Effectiveness Analysis for eBay](https://github.com/nsnatthapat/e-bay-geo-randomized-paid-search-effectiveness-analysis) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects, difference-in-differences, synthetic controls method | Placeholder Description
-[Multi-Channel Campaign Attribution & ROI Analysis for Patagonia](https://github.com/nsnatthapat/patagonia-ad-analysis) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects| Placeholder Description
-[Discount Coupon Email Effectiveness, Targetting Method, and ROI Analysis for Artea](https://github.com/nsnatthapat/artea-coupon-effectiveness) | **Python:** pandas, statsmodels <br> **Concepts:** causal inference, regression analysis, significance testing (t-test), interaction effects| Placeholder Description
-
-
-
+## Marketing Measurement 
+*Causal Inference, Counterfactual, Channel Attribution and ROI Analysis*
+Project Link | Project Description
+--- | ---
+[Multi-Channel Online Ad Effectiveness Analysis for The Criterion Channel](https://github.com/nsnatthapat/criterion-channel-online-ad-campaign-effectiveness-roi) | Placeholder Description
+[Online Ad Campaign Effectiveness Analysis for Rocket Fuel](https://github.com/nsnatthapat/rocket-fuel-ad-campaign-effectiveness-roi) | Placeholder Description
+[Geo-Randomized Paid Search Effectiveness Analysis for eBay](https://github.com/nsnatthapat/eBay-paid-search-DMA-causal-analysis-roi) | Placeholder Description
+[Multi-Channel Campaign Attribution & ROI Analysis for Patagonia](https://github.com/nsnatthapat/patagonia-ad-analysis) | Placeholder Description
+[Discount Coupon Email Effectiveness, Targetting Method, and ROI Analysis for Artea](https://github.com/nsnatthapat/artea-coupon-effectiveness) | Placeholder Description
+[Customer Response Ranking and Marginal ROI Analysis](https://github.com/nsnatthapat/ad-variety-roi-analysis-and-impression-ranking) | Placeholder Description
 
 
-
--- scratch notes 
-academic/school/personal projects
-1. Portuguese Bank -- Prediction and Clustering
-2. EIA Energy
-3. Data4Good - LLM as a Judge
-4. TAG -- Causal Analysis 
-5. RAG -- Retrieval Augmented Generation (Course helper) 
+## Consumer Analytics & Market Research
+Project Link | Project Description
+--- | ---
+[Cross-Brand Customer ID consolidation effect on Marketing ROI: A Customer Data Platform Analysis](https://github.com/nsnatthapat/amperity-customer-id-consolidation) | Placeholder Description
+[Retail Market Research: Consumer Segmentation with PCA](https://github.com/nsnatthapat/consumer-segmentation-with-pca) | **Python:** pandas| Placeholder Description
 
 
-
-Skills I still need
-- dBT
-- Airflow
-- More ETL
-- More cloud (AWS, GCP, Azure)
-
-
-
-
+## AI & LLM Systems
+Project Link | Project Description
+--- | ---
+[Market Research: Synthetic Customer Ratings via LLM](https://github.com/nsnatthapat/llm-for-market-research-wine-reviews) | Placeholder Description
+[LLM Fine-Tuning for Customer Review Triage](https://github.com/nsnatthapat/llm-fine-tuning-for-review-triage) | Placeholder Description
+[RAG System for MSBA Program Office](https://github.com/nsnatthapat/msba-office-rag-system) | Placeholder Description
 
 
 
