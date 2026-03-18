@@ -1,7 +1,4 @@
 # 👋 Hi! I’m Nat (Natthapat)
-
-🎓 MS in Business Analytics + BS in Informatics:Data Science -  University of Washington 
-
 💼 Analytics Engineer | Decision Systems | BI Developor
 
 🌏 Seattle-Based
@@ -18,9 +15,7 @@ I'm a data-driven problem solver with a background in Informatics: Data Science 
 
 ---
 
-## 📊 My Work
-
-## Featured Professional Case Studies 
+## 📊 Featured Professional Case Studies 
 
 ### Enterprise Performance Management Implementation  
 *Professional Case Study*
@@ -63,10 +58,6 @@ Oracle OTBI • SQL • Oracle ERP Data Models
 
 **Outcome**
 Enabled business teams to access self-service reporting directly within the Oracle ecosystem, reducing turnaround time for operational insights.
-
-
-
-
 
 
 
