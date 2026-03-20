@@ -1,7 +1,7 @@
 # 👋 Hi! I’m Nat (Natthapat)
 💼 Analytics Engineer | Decision Systems | BI Developor
 
-🌏 Seattle-Based
+🌏 Based in Seattle, WA 
 
 ## 💡 About Me
 
@@ -61,27 +61,42 @@ Enabled business teams to access self-service reporting directly within the Orac
 *Causal Inference, Counterfactual, Channel Attribution and ROI Analysis*
 Project Link | Project Description
 --- | ---
-[Multi-Channel Online Ad Effectiveness Analysis for The Criterion Channel](https://github.com/nsnatthapat/criterion-channel-online-ad-campaign-effectiveness-roi) | Placeholder Description
-[Online Ad Campaign Effectiveness Analysis for Rocket Fuel](https://github.com/nsnatthapat/rocket-fuel-ad-campaign-effectiveness-roi) | Placeholder Description
-[Geo-Randomized Paid Search Effectiveness Analysis for eBay](https://github.com/nsnatthapat/eBay-paid-search-DMA-causal-analysis-roi) | Placeholder Description
-[Multi-Channel Campaign Attribution & ROI Analysis for Patagonia](https://github.com/nsnatthapat/patagonia-ad-analysis) | Placeholder Description
-[Discount Coupon Email Effectiveness, Targetting Method, and ROI Analysis for Artea](https://github.com/nsnatthapat/artea-coupon-effectiveness) | Placeholder Description
-[Customer Response Ranking and Marginal ROI Analysis](https://github.com/nsnatthapat/ad-variety-roi-analysis-and-impression-ranking) | Placeholder Description
+[Multi-Channel Online Ad Effectiveness Analysis - The Criterion Channel](https://github.com/nsnatthapat/criterion-channel-online-ad-campaign-effectiveness-roi) | Analyzed a 1.2M-user randomized experiment across five ad channels (Facebook, Twitter, Instagram, YouTube, Letterboxd) to measure incremental subscription lift and channel-level ROI. Found ~348% relative lift overall, with Twitter as the only statistically reliable positive-ROI channel and Instagram as a promising but underpowered opportunity.
+[Online Ad Campaign Effectiveness Analysis - Rocket Fuel](https://github.com/nsnatthapat/rocket-fuel-ad-campaign-effectiveness-roi) | Evaluated a 96/4 treatment-control ad experiment using unadjusted lift, covariate-adjusted OLS, IPW, and Double Machine Learning. Found ~42% relative conversion lift and a treatment-only ROI of 37.7%, with actionable segmentation by impression frequency, day of week, and hour of day.
+[Geo-Randomized Paid Search Effectiveness Analysis - eBay](https://github.com/nsnatthapat/eBay-paid-search-DMA-causal-analysis-roi) | Used a DMA-level ad suspension experiment and two-way fixed effects Difference-in-Differences to contrast naïve attribution (+272% ROI) against the true causal return (−60% ROI), quantifying how organic substitution causes standard attribution to overstate paid search value by over 330 percentage points.
+[Multi-Channel Campaign Attribution & ROI Analysis - Patagonia](https://github.com/nsnatthapat/patagonia-ad-analysis) | Compared last-touch, first-touch, and linear attribution against intent-to-treat causal estimation across five channels (email, YouTube, Instagram, Google Search, contextual display) on 2M customer records. Found naive models overstate marketing impact ~4x, with contextual display flipping from the top-ranked channel (naive) to negative ROI (incremental).
+[Discount Coupon Email Effectiveness, Targetting Method, and ROI Analysis  - Artea](https://github.com/nsnatthapat/artea-coupon-effectiveness) | Ran A/B test analysis on a 5,000-customer coupon experiment and built a fully interacted heterogeneous treatment effects model to identify high-lift segments (cart holders, Instagram-acquired users). Surfaced an algorithmic fairness issue: the targeting model significantly under-routes coupons to minority customers via acquisition channel as a proxy variable.
+[Customer Response Ranking and Marginal ROI Analysis - Electronic Arts](https://github.com/nsnatthapat/ad-variety-roi-analysis-and-impression-ranking) | Trained CART and XGBoost models to rank mobile ad impressions by predicted CTR, finding that historical user CTR dominates in-session ad variety as a targeting signal. Showed targeted buying of top-ranked impressions nearly doubles ROI (351% → 682%) and derived the optimal mixed-channel budget allocation using a marginal ROI crossover framework.
+[Cross-Brand Customer ID consolidation measurement on Marketing ROI: A Customer Data Platform Analysis - Amperity](https://github.com/nsnatthapat/amperity-customer-id-consolidation) | Simulated fragmented vs. resolved customer identity across a multi-brand retailer and quantified downstream distortion: 51% customer count overstatement, high-value customer share halved, and a 33-point ROI gap between realized performance and what the fragmented system self-reported — illustrating how poor identity quality creates both targeting errors and false measurement confidence.
+[Display Advertising Effectiveness A/B Test - UberEats](https://github.com/nsnatthapat/display-advertising-effectiveness-experiment-for-ubereats) | Compared ITT and ATT estimators across 576K users to measure display ad impact, finding revenue lift concentrated in non-American markets and dormant users, while active users showed no significant response. Demonstrated that a naive within-treatment comparison inflates the estimated lift by ~30x due to selection bias in ad exposure.
+[Geo-Randomized Ad Removal A/B Test - Starbucks](https://github.com/nsnatthapat/Geo-Randomized-Ad-Removal-A-B-Test---Starbucks) | Applied two-way fixed effects DiD on a 200-market panel to estimate the causal impact of Google Maps local search ads, finding a statistically significant lift of ~9.6 units per hour per store (~7.4% relative lift). Validated parallel trends via event study and pre-period regression before interpreting the estimate as causal.
+
+
+
 
 
 ## Consumer Analytics & Market Research
 Project Link | Project Description
 --- | ---
-[Cross-Brand Customer ID consolidation effect on Marketing ROI: A Customer Data Platform Analysis](https://github.com/nsnatthapat/amperity-customer-id-consolidation) | Placeholder Description
-[Retail Market Research: Consumer Segmentation with PCA](https://github.com/nsnatthapat/consumer-segmentation-with-pca) | **Python:** pandas| Placeholder Description
+[Retail Market Research: Consumer Segmentation with PCA](https://github.com/nsnatthapat/consumer-segmentation-with-pca) | PApplied PCA to a retail attitude survey, reducing five correlated preference items into two interpretable dimensions — service orientation and price sensitivity — that together explain 90.5% of variance. Mapped respondents into four actionable customer segments to inform discount vs. full-service retail positioning decisions.
 
 
 ## AI & LLM Systems
 Project Link | Project Description
 --- | ---
-[Market Research: Synthetic Customer Ratings via LLM](https://github.com/nsnatthapat/llm-for-market-research-wine-reviews) | Placeholder Description
-[LLM Fine-Tuning for Customer Review Triage](https://github.com/nsnatthapat/llm-fine-tuning-for-review-triage) | Placeholder Description
-[RAG System for MSBA Program Office](https://github.com/nsnatthapat/msba-office-rag-system) | Placeholder Description
+[Market Research: Synthetic Customer Ratings via LLM - Wine Reviews](https://github.com/nsnatthapat/llm-for-market-research-wine-reviews) | Benchmarked zero-shot, few-shot, and chain-of-thought prompting strategies for LLM-based rating of wine reviews against human critic scores. Zero-shot (MAE 1.71) outperformed all engineered variants, while inter-run variance analysis (7-point spread across 20 identical calls) revealed non-determinism as the primary production risk for LLM annotation pipelines.
+[LLM Fine-Tuning for Customer Review Triage - Amazon Reviews](https://github.com/nsnatthapat/llm-fine-tuning-for-review-triage) | Fine-tuned GPT-4.1-mini on 67 labeled magazine subscription reviews to produce structured JSON triage outputs (complaint tag, escalation flag, suggested action). Fine-tuning improved complaint tag accuracy from 27.3% to 63.6% and JSON validity to 100%, demonstrating that task-specific fine-tuning outperforms prompt engineering for schema-constrained classification.
+[RAG System for Academic Program Office - UW MSBA](https://github.com/nsnatthapat/msba-office-rag-system) | Built and evaluated a retrieval-augmented generation system over 21 MSBA program documents (syllabi, policies, handbooks) for student support use cases. RAG scored 40/40 vs. 18/40 for the plain LLM baseline across factual accuracy, specificity, relevance, and hallucination control — with the largest gains on high-stakes policy and deadline queries.
+
+
+
+
+
+
+
+
+
+
 
 
 
